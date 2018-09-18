@@ -1,2 +1,6 @@
-# Me
-Hi this is me
+###### Hi I am Twan Lases.
+##### I study GameDeveloper on Media College Amsterdam!
+#### This is my First time using a README.
+### So this is bad
+## So....
+# Bye...
